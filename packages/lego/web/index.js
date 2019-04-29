@@ -1,5 +1,5 @@
 function lg() {
-    return 3;
+    return 4;
 }
 
 module.exports = lg;
