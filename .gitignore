@@ -16,3 +16,4 @@ package-lock.json
 /packages/*/.DS_Store
 /packages/**/.DS_Store
 #git submodule add git@github.com:fuhebo00/lego-rn.git packages/lego/r-native
+#git push --set-upstream origin master
