@@ -19,3 +19,4 @@ packages/*/*/package.json
 #git submodule add git@github.com:fuhebo00/lego-rn.git packages/lego/r-native
 #git push --set-upstream origin master
 #lerna publish --skip-npm --force-publish=@lego/rn
+#git remote rm origin
