@@ -1,6 +1,6 @@
 {
   "name": "@core/web",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@lego/web": "^3.0.0"
+    "@lego/web": "^4.0.0"
   }
 }
