@@ -1,0 +1,12 @@
+[submodule "packages/packages/core/r-native"]
+	path = packages/packages/core/r-native
+	url = git@github.com:fuhebo00/core-rn.git
+[submodule "packages/packages/lego/r-native"]
+	path = packages/packages/lego/r-native
+	url = git@github.com:fuhebo00/lego-rn.git
+[submodule "packages/lego/r-native"]
+	path = packages/lego/r-native
+	url = git@github.com:fuhebo00/lego-rn.git
+[submodule "packages/core/r-native"]
+	path = packages/core/r-native
+	url = git@github.com:fuhebo00/core-rn.git
